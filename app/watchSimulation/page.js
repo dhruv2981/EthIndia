@@ -1,7 +1,7 @@
 "use client"
 import React from 'react';
 import SimulationNavbar from "@/components/SimulationNav";
-import { useHealthGoalsStore } from '../../../store'; // Assuming the store is in a file named store.js or store.ts
+import { useHealthGoalsStore } from './../../store'; // Assuming the store is in a file named store.js or store.ts
 import { useRouter } from 'next/navigation';
 const WatchSimulation = () => {
   const {

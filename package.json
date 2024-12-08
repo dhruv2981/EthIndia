@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@coinbase/onchainkit": "^0.35.8",
+    "@openzeppelin/contracts": "^5.1.0",
     "axios": "^1.7.2",
     "framer-motion": "^11.13.1",
     "lucide-react": "^0.468.0",

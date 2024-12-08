@@ -105,11 +105,13 @@ Follow these steps to set up and run the project locally:
 ### Installation  
 
 1. **Clone the Repository**  
-   Clone the repository and navigate to the project directory:  
-   ```bash
-   git clone https://github.com/dhruv2981/EthIndia.git
-   cd EthIndia
-   npm install
+   
+Clone the repository and navigate to the project directory:  
+```bash
+git clone https://github.com/dhruv2981/EthIndia.git
+cd EthIndia
+npm install
+```
 
 2. **Run the development server** 
   ```bash
@@ -121,6 +123,7 @@ Follow these steps to set up and run the project locally:
   # or
   bun dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
